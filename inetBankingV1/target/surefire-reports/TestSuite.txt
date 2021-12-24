@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 2.732 sec <<< FAILURE! - in TestSuite
+setup(com.inetbanking.testCases.TC_LoginTest_001)  Time elapsed: 1.966 sec  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: D:\A\Prezence project\inetBankingV1\Drivers\chromedriver.exe
+
